@@ -1,0 +1,21 @@
+{
+	"name": "rosettac",
+	"version": "1.0.0",
+	"description": "'",
+	"main": "index.js",
+	"scripts": {
+		"test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"acorn": "^8.7.1",
+		"dedent": "^0.7.0",
+		"glob": "^8.0.3",
+		"node-stringbuilder": "^2.2.6"
+	},
+	"devDependencies": {
+		"jest": "^28.1.2"
+	},
+	"type": "module"
+}

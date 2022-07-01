@@ -1,0 +1,1 @@
+// ERROR: [./tests/parser/statements/ForInStatement.js 0:48] For in statements are not supported, ignoring

@@ -1,0 +1,3 @@
+/*
+Assembly Script backend for ASTTranspiler.
+*/

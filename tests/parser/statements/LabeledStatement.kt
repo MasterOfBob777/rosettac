@@ -1,0 +1,1 @@
+// ERROR: [./tests/parser/statements/LabeledStatement.js 0:4] Labels are not supported, ignoring

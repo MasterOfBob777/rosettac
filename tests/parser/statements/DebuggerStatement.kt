@@ -1,0 +1,1 @@
+// WARN: [./tests/parser/statements/DebuggerStatement.js 0:8] Debugger statements are ignored
