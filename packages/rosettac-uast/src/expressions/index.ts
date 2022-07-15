@@ -1,0 +1,15 @@
+export { AssignmentExpression } from "./AssignmentExpression";
+export { AwaitExpression } from "./AwaitExpression";
+export { BinaryOperatorExpression } from "./BinaryOperatorExpression";
+export { CallExpression } from "./CallExpression";
+export { FunctionExpression } from "./FunctionExpression";
+export { ImportExpression } from "./ImportExpression";
+export { IndexedAccessExpression } from "./IndexedAccessExpression";
+export { LambdaExpression } from "./LambdaExpression";
+export { ListExpression } from "./ListExpression";
+export { LiteralExpression } from "./LiteralExpression";
+export { MapExpression } from "./MapExpression";
+export { MemberExpression } from "./MemberExpression";
+export { TernaryExpression } from "./TernaryExpression";
+export { UnaryOperatorExpression } from "./UnaryOperatorExpression";
+export { VariableAccessExpression } from "./VariableAccessExpression";

@@ -1,0 +1,21 @@
+{
+  "name": "@rosetta/rosettac",
+  "version": "1.0.0",
+  "description": "The rosetta compiler",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "transpilier"
+  ],
+  "author": "Bob Varioa",
+  "license": "MIT",
+  "dependencies": {
+    "node-stringbuilder": "^2.2.6"
+  }
+}

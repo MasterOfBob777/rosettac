@@ -1,0 +1,22 @@
+{
+  "name": "@rosetta/rosettac-py",
+  "version": "1.0.0",
+  "description": "A python backend for the rosetta project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "plugin",
+    "transpilier"
+  ],
+  "author": "Bob Varioa",
+  "license": "MIT",
+  "dependencies": {
+    "@rosetta/rosettac-uast": "file:packages/rosettac-uast"
+  }
+}

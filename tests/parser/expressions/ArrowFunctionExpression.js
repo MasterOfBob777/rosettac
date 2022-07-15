@@ -3,3 +3,10 @@
 () => { return 1; };
 (a, b) => { return a + b; };
 (a, b=1) => { return a + b; };
+({a, b=1, c: d}) => { return a + b; };
+async () => {};
+async () => 1;
+async () => { return 1; };
+async (a, b) => { return a + b; };
+async (a, b=1) => { return a + b; };
+async ({a, b=1, c: d}) => { return a + b; };
